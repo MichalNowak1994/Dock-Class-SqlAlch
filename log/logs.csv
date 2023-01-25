@@ -1,0 +1,155 @@
+2022-12-13 10:54:21,053,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:54:21,054,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 10:54:21,055,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:57:57,486,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:57:57,489,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:58:20,662,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:58:20,665,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:58:37,092,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:58:37,094,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:58:54,242,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:58:54,244,XLS_LOGGER,ERROR,An error occurred while querying the database:
+Traceback (most recent call last):
+  File "/home/student1/PycharmProjects/Docker_sql/main.py", line 98, in <module>
+    Person.find_single_person('GeNdER', 'mAle')
+  File "/home/student1/PycharmProjects/Docker_sql/Person.py", line 84, in find_single_person
+    Person.part_of_method(what_we_try_to_find=what_to_find, list_of_names=genders, column="'"'gender'"'")
+  File "/home/student1/PycharmProjects/Docker_sql/Person.py", line 68, in part_of_method
+    print(str(' ', list_of_persons[times]))
+TypeError: str() argument 'encoding' must be str, not Person
+2022-12-13 10:59:07,359,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:59:07,361,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:59:20,589,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:59:20,591,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 10:59:56,164,XLS_LOGGER,INFO,Program Started
+2022-12-13 10:59:56,166,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:00:03,495,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:00:03,497,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:00:22,921,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:00:22,923,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:00:49,285,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:00:49,287,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 11:00:49,288,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:13:22,856,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:13:22,857,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 11:13:22,859,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:14:42,292,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:14:42,294,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 11:14:42,295,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 11:16:22,049,XLS_LOGGER,INFO,Program Started
+2022-12-13 11:16:22,051,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 11:16:22,052,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:11:11,671,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:11:11,672,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:11:11,674,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:11:54,323,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:11:54,325,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:11:54,326,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:12:45,576,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:12:45,577,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:12:45,579,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:16:41,203,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:16:41,204,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:16:41,206,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:22:08,402,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:22:08,403,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:22:08,405,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:32:10,045,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:32:10,046,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:32:10,048,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:32:57,427,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:32:57,428,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:32:57,429,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:34:55,663,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:34:55,664,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:34:55,665,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:35:06,078,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:35:06,079,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:35:06,081,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:35:35,788,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:35:35,789,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:35:35,790,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:37:30,583,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:37:30,584,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:37:30,585,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:37:36,700,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:37:36,701,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:37:36,702,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:37:48,341,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:37:48,341,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:37:48,343,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:52:25,222,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:52:25,224,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:52:25,225,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:54:20,239,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:54:20,240,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:54:20,242,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:57:05,255,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:57:05,257,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:57:05,258,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-13 12:59:46,540,XLS_LOGGER,INFO,Program Started
+2022-12-13 12:59:46,542,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 12:59:46,543,XLS_LOGGER,ERROR,An error occurred while querying the database:
+Traceback (most recent call last):
+  File "/home/student1/PycharmProjects/Docker_sql/main.py", line 42, in <module>
+    Person.find_single_person("GeNdeR", "FEmAle")
+  File "/home/student1/PycharmProjects/Docker_sql/Person.py", line 137, in find_single_person
+    Person.part_of_method(
+  File "/home/student1/PycharmProjects/Docker_sql/Person.py", line 98, in part_of_method
+    timess += 1
+UnboundLocalError: local variable 'timess' referenced before assignment
+2022-12-13 13:00:09,274,XLS_LOGGER,INFO,Program Started
+2022-12-13 13:00:09,275,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 13:00:09,276,XLS_LOGGER,ERROR,An error occurred while querying the database:
+Traceback (most recent call last):
+  File "/home/student1/PycharmProjects/Docker_sql/main.py", line 42, in <module>
+    Person.find_single_person("GeNdeR", "FEmAle")
+  File "/home/student1/PycharmProjects/Docker_sql/Person.py", line 112, in find_single_person
+    list_of_persons = list(session.query(Person).alls())
+AttributeError: 'Query' object has no attribute 'alls'
+2022-12-13 13:04:46,678,XLS_LOGGER,INFO,Program Started
+2022-12-13 13:04:46,679,XLS_LOGGER,INFO,Showed in console a list of all persons
+2022-12-13 13:04:46,681,XLS_LOGGER,INFO,Showed in console result of find_single_person method
+2022-12-16 14:53:41,202,XLS_LOGGER,INFO,Program Started
+2022-12-16 14:53:41,206,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 14:53:41,210,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:51:29,187,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:51:29,189,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:51:29,190,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:51:52,968,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:51:52,970,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:51:52,971,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:51:57,689,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:51:57,690,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:51:57,692,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:52:35,134,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:52:35,135,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:52:35,137,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:53:05,758,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:53:05,759,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:53:05,761,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:53:28,506,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:53:28,507,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:53:28,509,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:54:05,439,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:54:05,440,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:54:05,442,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 15:55:43,919,XLS_LOGGER,INFO,Program Started
+2022-12-16 15:55:43,921,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 15:55:43,922,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 16:01:25,979,XLS_LOGGER,INFO,Program Started
+2022-12-16 16:01:25,980,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 16:01:25,982,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 16:03:19,495,XLS_LOGGER,INFO,Program Started
+2022-12-16 16:03:19,497,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 16:03:19,498,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 16:03:35,204,XLS_LOGGER,INFO,Program Started
+2022-12-16 16:03:35,205,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 16:03:35,207,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-16 16:13:50,794,XLS_LOGGER,INFO,Program Started
+2022-12-16 16:13:50,795,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-16 16:13:50,796,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-19 10:47:54,424,XLS_LOGGER,INFO,Program Started
+2022-12-19 10:47:54,425,XLS_LOGGER,INFO,Printed in console a list of all persons
+2022-12-19 10:47:54,427,XLS_LOGGER,INFO,Printed in console result of find_single_person method
+2022-12-19 10:47:54,427,XLS_LOGGER,INFO,Script ended

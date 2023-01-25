@@ -1,0 +1,56 @@
+To do:
+Nowe rzeczy z 29.11:
+* nowy widok listy nagłowek i dane
+* w której grupie jest osoba bez oceny w szkole
+* metoda generująca ładną nazwę grupy
+
+
+Nr 1 - info, że grupa jest pusta
+4 
+
+5,7 - output raportu
+
+
+
+
+
+* init grupy dodawac metode szkoly
+* połączyć dodawanie grupy z tworzeniem grupy
+* zmienna klasowa weakref z listą obiektów typu szkoła
+* Powtarzalność napisu - do przemyślenia
+
+-> dodawanie studenta z poziomu interfejsu     ???
+-> Tworzenie obiektów w load czy zczytywanie danych samych? single responsibility? weakref wymaga złamania tej zasady?
+Single responsibility principle (Zasada jednej odpowiedzialności)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zrobione 29/11
+* uporządkowanie modułu save w funkcje
+* obsługa studentów i szkół z jsona w interfejsie
+* zapisywanie i odczytywanie z jsona szkół
+* zejście z generatora i static method
+* funkcja lub klasa, która na wejściu otrzyma ścieżkę do pliku i informację czy to jest csv czy json.
+* zmienna klasowa weakref z listą obiektów typu szkoła
+
+
+Zasada działania zipa:
+
+fruits = ["Apple", "Pear", "Peach", "Banana"]
+prices = [0.35, 0.40, 0.40, 0.28]
+
+fruit_dictionary = dict(zip(fruits, prices))
